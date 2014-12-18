@@ -1,9 +1,9 @@
-=== WooCommerce Products Filter ===
+﻿=== WooCommerce Products Filter ===
 Contributors: RealMag777
 Donate link: http://codecanyon.net/item/wordpress-meta-data-taxonomies-filter/7002700?ref=realmag777
 Tags: woocommerce products filter, products filter, filter, shortcode, woocommerce
 Requires at least: 3.8.0
-Tested up to: 4.0.1
+Tested up to: 4.1.0
 Stable tag: 1.0.1
 
 WooCommerce Products Filter – quick and easy products filter
