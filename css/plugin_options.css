@@ -1,0 +1,13 @@
+.woof_color_list{
+    margin: 9px 0 9px 34px;
+}
+
+label[for=woof_try_ajax], label[for=woof_show_title_search],
+label[for=woof_show_price_search],label[for=woof_filter_btn_txt],
+label[for=woof_reset_btn_txt]
+{
+    color:red;
+}
+
+
+
