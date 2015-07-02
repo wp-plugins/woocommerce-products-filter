@@ -1,0 +1,27 @@
+v.2.1.0 - 26-06-2015
+    - Fixed couple of bugs + 1 critical bug
+    - added submit button in textinput for searching by title by JavaScript
+    - Added option: ability to change 'Search slug' in the WOOF plugin options - ? ???
+    - Added option: placeholder optionally for search by title textinput
+    - Compatibility: Display Product for WooCommerce, partially only, read: http://www.woocommerce-filter.com/display-product-for-woocommerce-compatibility/
+
+v.2.0.9 - 19-06-2015
+    - Fixed couple of bugs
+    - Added option: Image for subcategories - open
+    - Added option: Image for subcategories - close
+    - Added option: Loading word - tab miscelanous
+    - Added option: Reset button text - option none
+    - Added option: Image for checked color type checkbox
+    - Added option: Price filter title text
+    - Added option: Overlay skin - experimental
+    - Added option: Use icheck - mode 'none'
+    - Added option: woof_is_mobile - variable for developers for mobile view
+    - Added option: Show button for "Filter by price" 
+    - Compatibility: WooCommerce Products Per Page
+
+v.2.0.8 - 26-05-2015
+    - Fixed couple of bugs
+    - Compatibility: WooCommerce Currency Switcher
+
+v.2.0.7 - 21-05-2015
+    - Release of the premium version
